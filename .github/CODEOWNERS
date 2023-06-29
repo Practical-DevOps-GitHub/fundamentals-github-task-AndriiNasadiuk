@@ -1,1 +1,3 @@
-* @online-marathon
+user_name = 'online-marathon'
+content = @obj.file_branch('CODEOWNERS', 'main') || @obj.file_branch('.github/CODEOWNERS', 'main') 
+user_name = 'online-marath'
